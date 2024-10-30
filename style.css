@@ -5,7 +5,7 @@ body{
 .container{
     width: 1000px;
     margin: auto;
-    transition: 0.5s; 
+    transition: 0.5s;
 }
 .container h1{
     color: #560bad;
